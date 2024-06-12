@@ -1,0 +1,202 @@
+@charset "utf-8";
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+#page{
+	width: 1920px;
+		height:1080px;
+		background-color:#353636;
+
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+#navigationsleiste{
+width: 1920px;
+	height: 100px;
+	background-color: black;
+
+}
+nav ul {
+  display: flex;
+  flex-direction: column;
+	
+} 
+
+nav li {
+  margin: 0.5em;
+  padding: 0;
+  font-size: 3em;  
+}
+
+	nav ul {
+		flex-direction: row;
+		align-items: center;
+	}
+	nav li {
+	align-content: center;
+
+		
+		flex: auto;
+		  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+		font-size: 2em;
+	}
+#main{
+	display: flex;
+	flex: 1;
+}
+
+#Text p{
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+font-style: normal;
+;color: white;
+font-size: 4em;
+	margin-left: 20px;
+	display: flex;
+}
+#Text h2{
+	height: 500px;
+	width: 800px;
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+font-style: normal;
+;color: white;
+font-size: 2.55em;
+	margin-left: 20px;
+	margin-top: 30px;
+	display: flex;
+	
+}
+#tabelle table{
+	width: 500px;
+	height: 500px;
+	font-family: "Roboto", sans-serif;
+font-weight: 300;
+font-style: normal;
+	color: white;
+	
+	
+}
+#tabelle p{
+	font-family: "Roboto", sans-serif;
+font-weight: 300;
+font-style: normal;
+	color: white;
+	justify-content: center;
+	align-content:center;
+	display: flex;
+	margin-top: 70px;
+	font-size: 4em;
+
+}
+#autobilder{
+	align-content: center;
+	width: 864.5px;
+	height: 650px;
+	margin-top: 145px;
+
+}
+#autobilder img[src="Pictures/Chevrolet 1.jpg"]{
+width: 47%;
+	height:35%;
+	float: left;
+		margin-left: 15px;
+
+	
+}
+#autobilder img[src="Pictures/Chevrolet 2.jpg"]{
+width: 47%;
+	height:35%;;
+	float: right;
+	
+		
+}
+#autobilder img[src="Pictures/Chevrolet 3.jpg"]{
+width: 47%;
+	height:35%;
+	float: left;
+	margin-top: 25px;
+	margin-left: 15px;
+	
+		
+}
+#autobilder img[src="Pictures/Chevrolet 4.jpg"]{
+width: 47%;
+	height:35%;
+	float: right;
+	margin-top: 25px;
+
+	
+}
+
+#footer{
+	width: 1920px;
+	height: 200px;
+	background-color: black;
+	display: flex;
+
+	
+	
+}
+
+	
+	
+
+#footerimages{
+	width:800px ;
+	height: 200px;
+	display: flex;
+	
+	
+	
+}
+
+#footerimages img[src="Pictures/Instagram_icon.png"]{
+	max-height: 100%;
+	max-width: 100%;
+	width: 200px;
+	height: 200px;
+	margin-left:100px;
+
+}
+#footerimages img[src="Pictures/Tiktoklogo-removebg-preview.png"]{
+		
+	max-height: 100%;
+	max-width: 100%;	
+	height: 200px;
+	width:200px;
+	
+	
+}
+#footerimages img[src="Pictures/Facebook_logo_(square).png"]{
+	max-height: 100%;
+	max-width: 100%;	
+		height: 200px;
+	width:200px;
+	
+	
+}
+#kontaktinfos{
+     font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+	color: white;
+	margin-left:900px;
+	width:200px;
+	height:200px ;
+	font-size: 1.3em;
+
+	
+	
+}
+
+
+
